@@ -1,0 +1,10 @@
+opencv-python
+ultralytics==8.3.13
+torch
+matplotlib
+pandas
+sympy
+Jinja2
+imageio
+imageio-ffmpeg
+ffmpeg
